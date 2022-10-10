@@ -35,7 +35,7 @@ function DeveloperForm() {
         <Form onSubmit={handleSubmit}> 
         <Form.Group className="mb-3">
             <Form.Control placeholder="Full Name" required/>
-            <Form.Select id='selectMenu'>
+            <Form.Select >
             <option>Select a Language</option>
             <option>JavaScript</option>
             <option>Python</option>

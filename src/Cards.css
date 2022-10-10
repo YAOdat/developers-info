@@ -113,3 +113,26 @@
   grid-gap: 20px;
   font-size: 1.2em;
 }
+
+
+select {
+  background-color: #222831;
+  color: #eb196e;
+  padding: 12px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
+
+input {
+
+  background-color: #222831;
+  color: #55d7dc;
+  padding: 12px;
+  width: 250px;
+  font-size: 20px;
+}
